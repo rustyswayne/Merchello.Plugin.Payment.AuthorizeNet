@@ -1,0 +1,88 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Wed May 13 12:47:06 2015
+
+   Source : C:\Working Repositories\GitHub\Merchello.Plugin.Payment.AuthorizeNet\Tests\Merchello.Tests.AuthorizeNet.Integration\bin\
+     Dest : C:\Working Repositories\GitHub\Merchello.Plugin.Payment.AuthorizeNet\Tests\Merchello.Tests.AuthorizeNet.Integration\App_Data\NuGetBackup\20150513-124706\bin\
+
+    Files : *.*
+	    
+  Options : *.* /S /E /COPY:DAT /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+	                   0	C:\Working Repositories\GitHub\Merchello.Plugin.Payment.AuthorizeNet\Tests\Merchello.Tests.AuthorizeNet.Integration\bin\
+	  New Dir         55	C:\Working Repositories\GitHub\Merchello.Plugin.Payment.AuthorizeNet\Tests\Merchello.Tests.AuthorizeNet.Integration\bin\Debug\
+	    New File  		  144384	AutoMapper.dll  0%   90%  100%  
+	    New File  		   28160	AutoMapper.Net4.dll  0%  100%  
+	    New File  		   78138	AutoMapper.xml  0%  100%  
+	    New File  		  118784	businesslogic.dll  0%  100%  
+	    New File  		  121934	businesslogic.xml  0%  100%  
+	    New File  		  516096	cms.dll  0%   25%   50%   76%  100%  
+	    New File  		  329469	cms.xml  0%   39%   79%  100%  
+	    New File  		   52224	controls.dll  0%  100%  
+	    New File  		    9068	controls.xml  0%  100%  
+	    New File  		   94720	Examine.dll  0%  100%  
+	    New File  		  249344	Examine.pdb  0%   52%  100%  
+	    New File  		   24576	interfaces.dll  0%  100%  
+	    New File  		   11197	interfaces.xml  0%  100%  
+	    New File  		  258048	log4net.dll  0%   50%  100%  
+	    New File  		  952832	Merchello.Core.dll  0%   27%   55%   82%  100%  
+	    New File  		   2.0 m	Merchello.Core.pdb  0%   23%   47%   71%   95%  100%  
+	    New File  		   28672	Merchello.Examine.dll  0%  100%  
+	    New File  		   69120	Merchello.Examine.pdb  0%  100%  
+	    New File  		   26624	Merchello.Plugin.Payments.AuthorizeNet.dll  0%  100%  
+	    New File  		   44544	Merchello.Plugin.Payments.AuthorizeNet.pdb  0%  100%  
+	    New File  		   17920	Merchello.Tests.AuthorizeNet.Integration.dll  0%  100%  
+	    New File  		    9618	Merchello.Tests.AuthorizeNet.Integration.dll.config  0%  100%  
+	    New File  		   30208	Merchello.Tests.AuthorizeNet.Integration.pdb  0%  100%  
+	    New File  		   60416	Merchello.Tests.Base.dll  0%  100%  
+	    New File  		  126464	Merchello.Tests.Base.pdb  0%  100%  
+	    New File  		  323584	Merchello.Web.dll  0%   40%   81%  100%  
+	    New File  		  634368	Merchello.Web.pdb  0%   41%   82%  100%  
+	    New File  		   11264	Microsoft.ApplicationBlocks.Data.dll  0%  100%  
+	    New File  		  659968	Moq.dll  0%   39%   79%  100%  
+	    New File  		  314572	Moq.xml  0%   41%   83%  100%  
+	    New File  		  457216	MySql.Data.dll  0%   28%   57%   86%  100%  
+	    New File  		  151552	nunit.framework.dll  0%   86%  100%  
+	    New File  		  583343	nunit.framework.xml  0%   44%   89%  100%  
+	    New File  		   19968	SQLCE4Umbraco.dll  0%  100%  
+	    New File  		   12991	SQLCE4Umbraco.xml  0%  100%  
+	    New File  		  470240	System.Data.SqlServerCe.dll  0%   27%   55%   83%  100%  
+	    New File  		  240352	System.Data.SqlServerCe.Entity.dll  0%   54%  100%  
+	    New File  		  192512	TidyNet.dll  0%   68%  100%  
+	    New File  		   2.0 m	Umbraco.Core.dll  0%   24%   49%   73%   98%  100%  
+	    New File  		   1.5 m	Umbraco.Core.xml  0%   16%   32%   48%   64%   80%   96%  100%  
+	    New File  		   38400	umbraco.DataLayer.dll  0%  100%  
+	    New File  		  115002	umbraco.DataLayer.xml  0%  100%  
+	    New File  		   1.8 m	umbraco.dll  0%   13%   26%   39%   53%   66%   79%   93%  100%  
+	    New File  		  372736	umbraco.editorControls.dll  0%   35%   70%  100%  
+	    New File  		  170154	umbraco.editorControls.xml  0%   77%  100%  
+	    New File  		  131584	umbraco.MacroEngines.dll  0%   99%  100%  
+	    New File  		    5678	umbraco.MacroEngines.xml  0%  100%  
+	    New File  		   38400	umbraco.providers.dll  0%  100%  
+	    New File  		   51453	umbraco.providers.xml  0%  100%  
+	    New File  		   61440	Umbraco.Web.UI.dll  0%  100%  
+	    New File  		   48524	Umbraco.Web.UI.xml  0%  100%  
+	    New File  		   1.3 m	umbraco.xml  0%   18%   36%   55%   73%   91%  100%  
+	    New File  		   49152	UmbracoExamine.dll  0%  100%  
+	    New File  		   36318	UmbracoExamine.xml  0%  100%  
+	    New File  		   22528	UrlRewritingNet.UrlRewriter.dll  0%  100%  
+	  New Dir          0	C:\Working Repositories\GitHub\Merchello.Plugin.Payment.AuthorizeNet\Tests\Merchello.Tests.AuthorizeNet.Integration\bin\Release\
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         2         1         0         0         0
+   Files :        55        55         0         0         0         0
+   Bytes :   17.14 m   17.14 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            57620801 Bytes/sec.
+   Speed :            3297.088 MegaBytes/min.
+
+   Ended : Wed May 13 12:47:06 2015

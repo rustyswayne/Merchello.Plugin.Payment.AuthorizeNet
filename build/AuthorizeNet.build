@@ -3,7 +3,7 @@
 
     <!-- IMPORTS -->
     <PropertyGroup>
-        <MSBuildCustomTasksPath>$(MSBuildProjectDirectory)..\..\..\..\..\Tools\MSBuildCommunityTasks</MSBuildCustomTasksPath>
+        <MSBuildCustomTasksPath>$(MSBuildProjectDirectory)..\..\Tools\MSBuildCommunityTasks</MSBuildCustomTasksPath>
         <MSBuildCommunityTasksPath>$(MSBuildCustomTasksPath)</MSBuildCommunityTasksPath>
         <MSBuildUmbracoTasksPath>$(MSBuildCustomTasksPath)</MSBuildUmbracoTasksPath>
     </PropertyGroup>
@@ -56,7 +56,7 @@
 
     <!-- COMPILE -->
     <Target Name="Compile" DependsOnTargets="UpdateAssemblyInfo">
-        <MSBuild Projects="$(RootDir)\src\Merchello.Plugin.Payments.AuthorizeNet\Merchello.Plugin.Payments.AuthorizeNet.sln" Properties="Configuration=Release;Platform=Any CPU;" />
+        <MSBuild Projects="$(RootDir)\src\AuthorizeNet.sln" Properties="Configuration=Release;Platform=Any CPU;" />
     </Target>
 
     <!-- PREPARE FILES -->
